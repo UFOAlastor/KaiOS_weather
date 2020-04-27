@@ -1,0 +1,29 @@
+{
+  "name": "weather",
+  "description": "一个天气",
+  "type": "web",
+  "launch_path": "/index.html",
+  "theme_color": "#6054EF",
+  "icons": {
+    "56": "/icon56.png",
+    "112": "/icon112.png"
+  },
+  "developer": {
+    "name": "原作者:钾肥猫",
+    "name": "修改者:此店不售此书(Zander Alastor)",
+    "url": "https://tianqiapi.com"
+  },
+  "default_locale": "zh-CN",
+  "locales": {
+    "zh-CN": {
+      "name": "weather",
+      "subtitle": "一个天气",
+      "description": "一个天气"
+    }
+  },
+  "fullscreen": false,
+  "orientation": "default",
+  "chrome": {
+    "statusbar": "overlap"
+  }
+}
